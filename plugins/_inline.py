@@ -60,10 +60,10 @@ _main_help_menu = [
 
 SUP_BUTTONS = [
     [
-        Button.url("Repo", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("Addons", url="https://github.com/TeamUltroid/UltroidAddons"),
+        Button.url("channel", url="https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17"),
+        Button.url("Group", url="https://t.me/searchkannadamovies"),
     ],
-    [Button.url("Support", url="t.me/UltroidSupport")],
+    [Button.url("Support", url="t.me/BAGURUJOINAGUUKANNADAMOVIES_17")],
 ]
 
 # --------------------BUTTONS--------------------#
