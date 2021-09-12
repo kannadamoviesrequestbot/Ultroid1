@@ -23,7 +23,7 @@ Owner_info_msg = f"""
 
 <strong>Message Forwards</strong> - {udB.get("PMBOT")}
 
-<stong>Ultroid <a href=https://github.com/TeamUltroid/Ultroid>[v{ultroid_version}]</a>, powered by @TeamUltroid</strong>
+<stong>BAGURUJOINAGUUKANNADAMOVIES_17 <a href=https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17>[v{ultroid_version}]</a>, powered by @beereshbanakards</strong>
 """
 
 _settings = [
